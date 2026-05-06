@@ -30,7 +30,7 @@ Este projeto foi construído como um **Single Page Application (SPA)** simples, 
 
 ## 📱 Como usar no Celular
 
-Para que o sistema funcione como um "aplicativo" no celular da sua mãe:
+Para que o sistema funcione como um "aplicativo" no celular:
 
 1.  Abra o arquivo `index.html` no navegador do celular (Chrome ou Safari).
 2.  Toque no ícone de **Compartilhar** ou nos **Três Pontinhos** do menu.
